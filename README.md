@@ -44,6 +44,7 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 - [FSD + Typescript + Quasar 2 + Vite + Dprint template](https://github.com/doox911-opensource/quasar-vite-fsd)
 - [FSD + SvelteKit + Shadcn + Tailwind template](https://github.com/falkomerr/sveltekit-starter)
 - [FSD + Flutter + Flutter Lint template](https://github.com/hardy716/fsd_flutter_template)
+- [FSD + TypeScript + React + Vite Plus (Vite+) + TanStack Start Monorepo template](https://github.com/tsu-moe/tsu-stack)
 
 ## Articles
 
